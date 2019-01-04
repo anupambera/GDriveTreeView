@@ -1,5 +1,5 @@
 # GDriveTreeView
-This Google Scripts will generate a Google Drive Tree with all the files and folders.
+This Google Script will generate a Google Drive Tree with all the files and folders.
 
 First open a script editor in your google drive. If you are doing first time then follow the link https://developers.google.com/apps-script/overview#your_first_script. 
 
