@@ -8,4 +8,4 @@ Select the function "genFolderTree" from the "Select function" menu. Change the 
 var foldername = 'RootDir';
 ```
 Here is the sceen short -
-![Screenshot](screenshot.png)
+![Screenshot](ScreenShot.png)
